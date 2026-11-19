@@ -1,6 +1,16 @@
 # Come aggiungere un tip
 
-Il modo più veloce è il link **Aggiungi il tuo tip** nel [README](README.md): apre il file già pronto da compilare, direttamente dal browser.
+Il modo più veloce sono i passaggi **Aggiungi il tuo tip** nel [README](README.md): fai il fork, apri il file già pronto da compilare e mandi la pull request, tutto dal browser.
+
+## Se il link pronto ti dà errore
+
+Capita che GitHub dia "unexpected error" quando si parte dal link pronto. In quel caso fai tutto dalla tua copia:
+
+1. Fai il [fork](https://github.com/brankss/ai-pro-tips/fork) (se non l'hai già fatto) e resta sulla tua copia della repo
+2. Entra nella cartella `tips`, poi **Add file** → **Create new file**
+3. Dai un nome al file, tipo `fatti-fare-le-domande.md`, e incolla il formato che trovi qui sotto
+4. Compila, poi premi **Commit changes** e conferma
+5. Torna alla pagina principale della tua copia: premi **Contribute** → **Open pull request** → **Create pull request**
 
 ## Il formato
 
